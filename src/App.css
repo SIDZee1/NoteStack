@@ -1,0 +1,29 @@
+i {
+    cursor: pointer;
+}
+.login,
+.image {
+  min-height: 92.4vh;
+}
+
+.bg-image {
+  background-image: url('.//loginimage2.jpg');
+  background-size: cover;
+  background-position: center center;
+}
+.alerts {
+  position: absolute;
+  width: 100%;
+  z-index: 1;
+}
+
+.bg-cover {
+    background-size: cover !important;
+    width: 100%!important;
+}
+
+
+body {
+    min-height: 100vh;
+}
+
